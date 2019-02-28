@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GenderApi</string>
+    <string name="app_name">I Know You</string>
     <string name="enter_name_in_small_case">Enter your name</string>
     <string name="search">Search</string>
     <string name="detecting_your_gender">I know What you are, just tell me your name!</string>
